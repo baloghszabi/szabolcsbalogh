@@ -53,6 +53,7 @@ window.onscroll = () => {
   );
 };
 
+//EmailJS
 function SendMail() {
   let params = {
     from_name: document.getElementById("fullName").value,

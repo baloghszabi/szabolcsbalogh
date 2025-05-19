@@ -12,7 +12,7 @@ This is my personal portfolio website where I showcase my projects(coming soon),
 
 ## 📫 Contact
 
-Feel free to reach out via the contact form on the site or connect with me on GitHub.
+Feel free to reach out via the contact form on the site or connect with me on GitHub or just email me (szabi2022@gmail.com).
 
 ---
 
